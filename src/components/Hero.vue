@@ -9,7 +9,7 @@
 
 <script>
 export default {
-  logo: 'Hero'
+  name: 'Hero'
 }
 </script>
 
